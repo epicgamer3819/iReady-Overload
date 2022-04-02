@@ -8,7 +8,7 @@
         </a>
 </p>
 
-As of 3/6, this extension has ~105,000 users (gg on 100k lmao) meaning 105,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (1.05%). If your school uses i-Ready, recommend this extension. They'll thank you.
+As of 3/6, this extension has ~105,000 users (gg on 100k lmao) meaning 105,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (1.05%). If your school uses i-Ready, recommend this extension. They'll thank you. If you want to support my iReady Overload project, please go to https://www.fiverr.com/epicgamer244/complete-your-iready-lessons to buy my special packages
 
 ## How to use/install
 
